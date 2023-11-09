@@ -1,4 +1,7 @@
 # QR-test
+https://qr.quel.jp/text.php
+
+https://me-qr.com/ja/qr-code-generator/text
 
 ブラウザでバーコード/QRコードリーダー【環境構築編】
 https://qiita.com/mm_sys/items/a0dcc2c02f27751cd80d
