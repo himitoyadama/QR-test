@@ -1,4 +1,10 @@
 # QR-test
+【PHP】endroid/qr-codeを使ってQRコードを生成してみる
+https://qiita.com/danishi/items/fd8038ee373c04b94bf6
+
+【Laravel】簡単！QRコードを生成する方法
+https://www.yui-web-beginner.net/laravel-qrcode/
+
 https://qr.quel.jp/text.php
 
 https://me-qr.com/ja/qr-code-generator/text
