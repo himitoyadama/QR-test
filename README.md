@@ -1,4 +1,7 @@
 # QR-test
+【PHP】endroid/qr-codeを使ってQRコードを生成してみる
+https://qiita.com/danishi/items/fd8038ee373c04b94bf6
+
 無料で使えるプロキシサーバー7つ
 https://saas-navi.com/proxy/proxy-free/#ProxySite
 
