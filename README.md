@@ -1,4 +1,7 @@
 # QR-test
+ＱＲコードで提出物を楽々管理する本格的なアプリ
+https://www.youtube.com/watch?v=7TCuqQKMsiY
+
 QRコードをスマホで読み取るだけでスプレッドシートを使った備品管理!
 https://m.youtube.com/watch?v=ktsLFxL23H8
 
