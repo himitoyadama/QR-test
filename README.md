@@ -1,4 +1,7 @@
 # QR-test
+QRコードをスマホで読み取るだけでスプレッドシートを使った備品管理!
+https://m.youtube.com/watch?v=ktsLFxL23H8
+
 【PHP】endroid/qr-codeを使ってQRコードを生成してみる
 https://qiita.com/danishi/items/fd8038ee373c04b94bf6
 
