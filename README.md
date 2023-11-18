@@ -1,4 +1,8 @@
 # QR-test
+
+第17回目　OZさんのサーバー作り方講座　QRコードの導入は簡単です！データベースを持ったサーバーにQRコードを入れてみます！　実際に携帯からアクセスしての流れも動画で解説します！
+https://www.youtube.com/watch?v=_zw5TRCHvbQ
+
 QRコードにデータベースの情報を入れたいです。
 https://teratail.com/questions/142657
 
