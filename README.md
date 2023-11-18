@@ -1,4 +1,7 @@
 # QR-test
+QRコードにデータベースの情報を入れたいです。
+https://teratail.com/questions/142657
+
 ＱＲコードで提出物を楽々管理する本格的なアプリ
 https://www.youtube.com/watch?v=7TCuqQKMsiY
 
