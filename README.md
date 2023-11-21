@@ -1,4 +1,7 @@
 # QR-test
+Generate QR code & save into database
+https://m.youtube.com/watch?v=laqQiL2v4NY
+
 QRコードを作成する簡単なプログラム
 https://allabout.co.jp/gm/gc/47418/
 
